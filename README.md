@@ -1,0 +1,1 @@
+This is an excerpt from my work with Professor Paul Ginsparg. The notebooks are each commented with their purpose. All of them together set up the training and benchmarking for a Seq2Seq LLM.
